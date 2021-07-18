@@ -16,6 +16,6 @@ Week_5_PyBer Module
 
 - The Total Fare by City Type per week line chart supports the total fare differential between city types. Based on a first observation, there does not seem to be signficant trend difference between either of the city types and each city type seems to increase or decrease in total fare amounts on different weeks. 
 
-
+![Alt_text](
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
